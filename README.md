@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3cuKSVoH)
+# DCC202 Atividade 2
+
+Olá meu nome é Pedro Muniz e minha matrícula é 202376029.
+Este é meu trabalho para atv2 de DCC202 eme 2023-3.
